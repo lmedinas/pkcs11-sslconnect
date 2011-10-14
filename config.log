@@ -1,0 +1,21 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:535: checking for gcc
+configure:648: checking whether the C compiler (gcc  ) works
+configure:664: gcc -o conftest    conftest.c  1>&5
+configure:690: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:695: checking whether we are using GNU C
+configure:723: checking whether gcc accepts -g
+configure:755: checking whether make sets ${MAKE}
+configure:785: checking for pow in -lm
+configure:867: checking for OpenSSL include files
+configure:885: checking for OpenSSL libraries
+configure:911: gcc -o conftest -g -O2  -L/usr/lib  conftest.c -lssl -lcrypto -lm  1>&5
+configure:933: gcc -o conftest -g -O2  -L/usr/lib  conftest.c -lssl -lcrypto -lm  1>&5
+configure:967: checking how to run the C preprocessor
+configure:1047: checking for ANSI C header files
+configure:1152: checking for 8-bit clean memcmp
+configure:1188: checking return type of signal handlers
+configure:1229: checking for vprintf
+configure:1336: checking for strdup
